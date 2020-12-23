@@ -65,8 +65,10 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [medical_NER - 中文医学知识图谱命名实体识别](https://github.com/pumpkinduo/KnowledgeGraph_NER)
 * [BERT/CRF实现的命名实体识别](https://github.com/Louis-udm/NER-BERT-CRF)
 * [用预训练语言模型ALBERT做中文NER](https://github.com/ProHiryu/albert-chinese-ner)
+* [用 bilstm-crf,bert及相关方法进行序列标注](https://github.com/qiufengyuyi/sequence_tagging)
 
 9、文本(情感)分类
+* [基于CNN，RNN 和NLP中预训练模型构建的多个常见的文本分类模型](https://github.com/xiaoxiong74/textClassifier)
 * [中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention, DPCNN, Transformer,基于pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
 * [腾讯开源深度学习文本分类工具:NeuralNLP-NeuralClassifier,基于Pytorch](https://github.com/Tencent/NeuralNLP-NeuralClassifier)
 * [Keras-TextClassification](https://github.com/yongzhuo/Keras-TextClassification)
@@ -80,6 +82,13 @@ Cool-NLP | [Cool-CV](README-CV.md)
 12、阅读理解
 
 13、知识图谱
+* [基于医药知识图谱的智能问答系统](https://github.com/YeYzheng/KGQA-Based-On-medicine)
+* [京东商品知识图谱](https://github.com/liuhuanyong/ProductKnowledgeGraph)
+* [军事领域知识图谱问答项目](https://github.com/liuhuanyong/QAonMilitaryKG)
+* [百度百科中文页面，抽取三元组信息，构建中文知识图谱](https://github.com/lixiang0/WEB_KG)
+* [基于知识图谱的问答系统](https://github.com/fighting41love/funNLP)
+* [《知识图谱》课程资料](https://github.com/npubird/KnowledgeGraphCourse)
+* [农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策](https://github.com/qq547276542/Agriculture_KnowledgeGraph)
 
 14、文本相似度计算(判定)
 * [中文问题句子相似度计算比赛及方案汇总](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task)
@@ -96,6 +105,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [聊天机器人框架RASA](https://github.com/RasaHQ/rasa)
 * [GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型](https://github.com/yangjianxin1/GPT2-chitchat)
 * [基于金融-司法领域(兼有闲聊性质)的聊天机器人](https://github.com/charlesXu86/Chatbot_CN)
+* [基于rasa_nlu，rasa_core，rasa_core_sdk构建的聊天机器人](https://github.com/xiaoxiong74/rasa_chatbot)
 
 17、[nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
 
