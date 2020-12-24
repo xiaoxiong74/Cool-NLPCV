@@ -3,6 +3,8 @@ Some Cool NLP and CV Repositories and Solutions
 
 [Cool-NLP](README.md) | Cool-CV
 
+旨在收集CV中常见任务的开源解决方案、数据集、工具、学习资料等，方便学习或快速查找。在此分享出来，供大家参考。欢迎积极分享并Star，谢谢！  
+
 1、机器学习&深度学习入门精选  
 * [Python-100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 * [斯坦福大学2014（吴恩达）机器学习教程中文笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)

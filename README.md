@@ -1,6 +1,10 @@
 # Cool-NLPCV （持续更新中...）
-Some Cool NLP and CV Repositories and Solutions   
-Cool-NLP | [Cool-CV](README-CV.md)
+Some Cool NLP and CV Repositories and Solutions  
+ 
+Cool-NLP | [Cool-CV](README-CV.md)  
+
+旨在收集NLP中常见任务的开源解决方案、数据集、工具、学习资料等，方便学习或快速查找。在此分享出来，供大家参考。欢迎积极分享并Star，谢谢!  
+会持续不定时更新，也欢迎加入共同分享。  
 
 1、机器学习&深度学习入门精选  
 * [Python-100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
@@ -41,6 +45,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [MedQuAD：(英文)医学问答数据集](https://github.com/abachaa/MedQuAD)
 * [中文医疗对话数据集Chinese medical dialogue data](https://github.com/Toyhom/Chinese-medical-dialogue-data)
 * [大规模中文知识图谱数据](https://github.com/ownthink/KnowledgeGraphData)
+* [中文语音语料:说话人约3200个，音频约900小时，文本约113万条，共有约1300万字](https://github.com/KuangDD/zhvoice)
 
 4、基于Bert(bert4keras)的各类任务统一框架实现：
 * [中文分词、实体识别、文本(情感)分类、阅读理解、标题生成、关系抽取(三元组抽取)、对抗训练、图像描述生成、文本生成](https://github.com/bojone/bert4keras/tree/master/examples)
@@ -66,6 +71,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [BERT/CRF实现的命名实体识别](https://github.com/Louis-udm/NER-BERT-CRF)
 * [用预训练语言模型ALBERT做中文NER](https://github.com/ProHiryu/albert-chinese-ner)
 * [用 bilstm-crf,bert及相关方法进行序列标注](https://github.com/qiufengyuyi/sequence_tagging)
+* [BILSTM+CRF做医疗实体识别,包含医疗NER数据](https://github.com/DengYangyong/medical_entity_recognize)
 
 9、文本(情感)分类
 * [基于CNN，RNN 和NLP中预训练模型构建的多个常见的文本分类模型](https://github.com/xiaoxiong74/textClassifier)
@@ -76,10 +82,19 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [如何解决NLP分类任务的11个关键问题](https://zhuanlan.zhihu.com/p/183852900)
 
 10、关系抽取(三元组抽取)
+* [基于远监督的中文关系抽取](https://github.com/xiaofei05/Distant-Supervised-Chinese-Relation-Extraction)
+* [基于DGCNN和概率图的轻量级信息抽取模型](https://kexue.fm/archives/6671)
+* [用bert4keras做三元组抽取](https://kexue.fm/archives/7161)
+* [信息抽取冠军方案分享：嵌套NER+关系抽取+实体标准化](https://zhuanlan.zhihu.com/p/326302618)
+* [ACL2020信息抽取相关论文汇总](https://blog.csdn.net/qq_42189083/article/details/106424416)
+* [Nlp中的实体关系抽取方法总结](https://zhuanlan.zhihu.com/p/77868938)
+
 
 11、文本生成、文本摘要
+* [动手做个DialoGPT：基于LM的生成式多轮对话模型](https://kexue.fm/archives/7718)
 
 12、阅读理解
+* [基于MLM的阅读理解问答](https://kexue.fm/archives/7148)
 
 13、知识图谱
 * [基于医药知识图谱的智能问答系统](https://github.com/YeYzheng/KGQA-Based-On-medicine)
@@ -96,8 +111,11 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [常用文本匹配模型tf版本，数据集为QA_corpus](https://github.com/terrifyzhao/text_matching)
 * [文本匹配的相关模型DSSM,ESIM,ABCNN,BIMPM等，数据集为LCQMC官方数据](https://github.com/pengming617/text_matching)
 
-15、Attention(注意力机制)
+15、Attention(注意力机制)、Transformer
 * [《Attention is All You Need》浅读(简介+代码)](https://kexue.fm/archives/4765)
+* [通俗易懂：8大步骤图解注意力机制](https://zhuanlan.zhihu.com/p/94077451)
+* [Transformer如戏，全靠Mask](https://kexue.fm/archives/6933)
+
 
 16、机器人、问答
 * [智能客服、聊天机器人的应用和架构、算法分享和介绍](https://github.com/lizhe2004/chatbot-list)
@@ -107,7 +125,11 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [基于金融-司法领域(兼有闲聊性质)的聊天机器人](https://github.com/charlesXu86/Chatbot_CN)
 * [基于rasa_nlu，rasa_core，rasa_core_sdk构建的聊天机器人](https://github.com/xiaoxiong74/rasa_chatbot)
 
-17、[nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
+17、Embedding全面理解
+* [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
+* [乘风破浪的PTM：两年来预训练模型的技术进展](https://zhuanlan.zhihu.com/p/254821426)
+* [万字长文解析词向量(W2C/Fasttext/Glove)](https://zhuanlan.zhihu.com/p/164999424)
+* [Embedding入门必读的十篇论文](https://blog.csdn.net/qq_42189083/article/details/106429008)
 
 18、[NLP论文多个领域经典、顶会、必读整理分享](https://blog.csdn.net/qq_42189083/article/details/106424610)
 
@@ -124,10 +146,26 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [Jieba](https://github.com/yanyiwu/cppjieba)
 * [NLPIR汉语分词](https://github.com/NLPIR-team/NLPIR)
 
-21、NLP标注工具或平台
+21、文本对抗、数据增强
+* [TextAttack:一个用于NLP对抗性攻击、数据扩充和模型训练的框架](https://github.com/QData/TextAttack)
+* [对抗训练浅谈：意义、方法和思考(附Keras实现)](https://kexue.fm/archives/7234)
 
-22、NLP面试指南
+22、NLP标注工具或平台
+* [BRAT:基于web的文本标注工具](https://github.com/nlplab/brat)
+* [YEDDA](https://github.com/jiesutd/YEDDA)
+* [MarkTool 基于web的通用文本标注工具,支持大规模实体标注、关系标注、事件标注、文本分类等](https://github.com/FXLP/MarkTool)
 
+23、NLP面试指南
+* [NLP算法面试必备！史上最全！PTMs：NLP预训练模型的全面总结](https://zhuanlan.zhihu.com/p/115014536)
+* [NLP/AI面试全记录(持续更新，最全预训练总结)](https://zhuanlan.zhihu.com/p/57153934)
+
+24、人工智能技术系列报告
+* [清华大学人工智能技术系列报告](https://reports.aminer.cn/)
+
+25、国内自然语言处理(NLP)研究组[https://zhuanlan.zhihu.com/p/142465929]
+
+26、语音识别
+* [MASR 中文语音识别](https://github.com/nobody132/masr)
 
 
 
