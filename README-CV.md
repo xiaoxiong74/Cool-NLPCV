@@ -37,5 +37,6 @@ Some Cool NLP and CV Repositories and Solutions
 * [带有关键点检测的超轻量级人脸检测器](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
 * [腾讯优图高精度双分支人脸检测器](https://github.com/Tencent/FaceDetection-DSFD)
 
-6、物体检测
+6、目标检测
+* [目标检测:Yolo v4, v3 and v2](https://github.com/AlexeyAB/darknet)
 

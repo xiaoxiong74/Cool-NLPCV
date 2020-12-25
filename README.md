@@ -46,6 +46,9 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [中文医疗对话数据集Chinese medical dialogue data](https://github.com/Toyhom/Chinese-medical-dialogue-data)
 * [大规模中文知识图谱数据](https://github.com/ownthink/KnowledgeGraphData)
 * [中文语音语料:说话人约3200个，音频约900小时，文本约113万条，共有约1300万字](https://github.com/KuangDD/zhvoice)
+* [THUOCL（THU Open Chinese Lexicon）中文词库](https://github.com/thunlp/THUOCL)
+* [面向中文处理的12类、百万规模的语义常用词典，包括34万抽象语义库、34万反义语义库、43万同义语义库等](https://github.com/liuhuanyong/ChineseSemanticKB)
+* [百度知道问答语料库，包括超过580万的问题，938万的答案，5800个分类标签](https://github.com/liuhuanyong/MiningZhiDaoQACorpus)
 
 4、基于Bert(bert4keras)的各类任务统一框架实现：
 * [中文分词、实体识别、文本(情感)分类、阅读理解、标题生成、关系抽取(三元组抽取)、对抗训练、图像描述生成、文本生成](https://github.com/bojone/bert4keras/tree/master/examples)
@@ -104,12 +107,15 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [基于知识图谱的问答系统](https://github.com/fighting41love/funNLP)
 * [《知识图谱》课程资料](https://github.com/npubird/KnowledgeGraphCourse)
 * [农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策](https://github.com/qq547276542/Agriculture_KnowledgeGraph)
+* [知识图谱构建，自动问答，基于kg的自动问答:以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务](https://github.com/liuhuanyong/QASystemOnMedicalKG)
+* [知识图谱相关学习资料，提供系统化的知识图谱学习路径](https://github.com/husthuke/awesome-knowledge-graph)
 
 14、文本相似度计算(判定)
 * [中文问题句子相似度计算比赛及方案汇总](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task)
 * [中国法研杯相似案例匹配Top1团队解决方案](https://github.com/GuidoPaul/CAIL2019)
 * [常用文本匹配模型tf版本，数据集为QA_corpus](https://github.com/terrifyzhao/text_matching)
 * [文本匹配的相关模型DSSM,ESIM,ABCNN,BIMPM等，数据集为LCQMC官方数据](https://github.com/pengming617/text_matching)
+* [基于Siamese bilstm模型的相似句子判定模型,提供训练数据集和测试数据集](https://github.com/liuhuanyong/SiameseSentenceSimilarity)
 
 15、Attention(注意力机制)、Transformer
 * [《Attention is All You Need》浅读(简介+代码)](https://kexue.fm/archives/4765)
@@ -149,6 +155,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 21、文本对抗、数据增强
 * [TextAttack:一个用于NLP对抗性攻击、数据扩充和模型训练的框架](https://github.com/QData/TextAttack)
 * [对抗训练浅谈：意义、方法和思考(附Keras实现)](https://kexue.fm/archives/7234)
+* [中文语料的EDA数据增强工具](https://github.com/zhanlaoban/eda_nlp_for_Chinese)
 
 22、NLP标注工具或平台
 * [BRAT:基于web的文本标注工具](https://github.com/nlplab/brat)
@@ -162,11 +169,17 @@ Cool-NLP | [Cool-CV](README-CV.md)
 24、人工智能技术系列报告
 * [清华大学人工智能技术系列报告](https://reports.aminer.cn/)
 
-25、国内自然语言处理(NLP)研究组[https://zhuanlan.zhihu.com/p/142465929]
+25、[国内自然语言处理(NLP)研究组](https://zhuanlan.zhihu.com/p/142465929)
 
 26、语音识别
 * [MASR 中文语音识别](https://github.com/nobody132/masr)
+* [基于深度学习的中文语音识别系统 A Deep-Learning-Based Chinese Speech Recognition System](https://github.com/nl8590687/ASRT_SpeechRecognition)
 
+27、Seq2Seq
+* [无监督编程语言转换(Python、C++、Java)](https://github.com/facebookresearch/TransCoder?utm_source=catalyzex.com)
+
+28、NLP竞赛精选
+* [NLP比赛的TOP方案](https://github.com/zhpmatrix/nlp-competitions-list-review)
 
 
 
