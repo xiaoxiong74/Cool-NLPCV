@@ -31,6 +31,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [开源预训练语言模型合集](https://github.com/ZhuiyiTechnology/pretrained-models)
 * [JD客服对话数据(42G,12亿句子)预训练BERT及WordEmbedding](https://github.com/jd-aig/nlp_baai/tree/master/pretrained_models_and_embeddings)
 * [以词为基本单位的中文BERT](https://github.com/ZhuiyiTechnology/WoBERT)
+* [高质量中文预训练模型集合：最先进大模型、最快小模型、相似度专门模型](https://github.com/CLUEbenchmark/CLUEPretrainedModels)
 
 3、中文自然语言处理数据集 
 * [任务型对话数据、文本分类、实体识别&词性标注、搜索匹配、推荐系统、百科数据、指代消歧、中文完形填空数据集、中华古诗词数据库、保险行业语料库、汉语拆字字典、中文数据集平台](https://github.com/InsaneLife/ChineseNLPCorpus)
@@ -49,6 +50,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [THUOCL（THU Open Chinese Lexicon）中文词库](https://github.com/thunlp/THUOCL)
 * [面向中文处理的12类、百万规模的语义常用词典，包括34万抽象语义库、34万反义语义库、43万同义语义库等](https://github.com/liuhuanyong/ChineseSemanticKB)
 * [百度知道问答语料库，包括超过580万的问题，938万的答案，5800个分类标签](https://github.com/liuhuanyong/MiningZhiDaoQACorpus)
+* []
 
 4、基于Bert(bert4keras)的各类任务统一框架实现：
 * [中文分词、实体识别、文本(情感)分类、阅读理解、标题生成、关系抽取(三元组抽取)、对抗训练、图像描述生成、文本生成](https://github.com/bojone/bert4keras/tree/master/examples)
@@ -64,7 +66,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 
 8、实体识别合集
 * [基于TF：BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER)
-* [基于TF+Pyrotch:CLUENER 细粒度命名实体识别](https://github.com/CLUEbenchmark/CLUENER2020)
+* [基于TF+Pytorch:CLUENER 细粒度命名实体识别](https://github.com/CLUEbenchmark/CLUENER2020)
 * [基于Pytorch:Chinese NER(Named Entity Recognition) using BERT(Softmax, CRF, Span)](https://github.com/lonePatient/BERT-NER-Pytorch)
 * [基于TF：命名实体识别实践与探索](https://github.com/wavewangyue/ner)
 * [工业界如何解决NER问题？12个trick，与你分享](https://zhuanlan.zhihu.com/p/152463745)
@@ -91,6 +93,9 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [信息抽取冠军方案分享：嵌套NER+关系抽取+实体标准化](https://zhuanlan.zhihu.com/p/326302618)
 * [ACL2020信息抽取相关论文汇总](https://blog.csdn.net/qq_42189083/article/details/106424416)
 * [Nlp中的实体关系抽取方法总结](https://zhuanlan.zhihu.com/p/77868938)
+* [DeepKE:基于 Pytorch 的深度学习中文关系抽取框架](https://github.com/zjunlp/deepke)
+* [基于TensorFlow的实体及关系抽取,2019语言与智能技术竞赛信息抽取任务解决方案](https://github.com/yuanxiaosc/Entity-Relation-Extraction)
+* [一种级联指针三元组抽取框架](https://github.com/weizhepei/CasRel)
 
 
 11、文本生成、文本摘要
@@ -145,12 +150,13 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [Texthero：文本数据高效处理包，包括预处理、关键词提取、命名实体识别、向量空间分析、文本可视化等](https://github.com/jbesomi/texthero)
 * [基于Pytorch的Bert应用，包括命名实体识别、情感分析、文本分类以及文本相似度等](https://github.com/rsanshierli/EasyBert)
 
-20、NLP分词工具
+20、NLP基础工具包
 * [清华THULAC](https://github.com/thunlp/THULAC)
 * [HanLP](https://github.com/hankcs/HanLP)
 * [哈工大LTP](https://github.com/HIT-SCIR/ltp)
 * [Jieba](https://github.com/yanyiwu/cppjieba)
 * [NLPIR汉语分词](https://github.com/NLPIR-team/NLPIR)
+* [JioNLP：中文NLP任务预处理工具包，准确、高效、零使用门槛](https://github.com/dongrixinyu/JioNLP)
 
 21、文本对抗、数据增强
 * [TextAttack:一个用于NLP对抗性攻击、数据扩充和模型训练的框架](https://github.com/QData/TextAttack)
