@@ -50,7 +50,8 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [THUOCL（THU Open Chinese Lexicon）中文词库](https://github.com/thunlp/THUOCL)
 * [面向中文处理的12类、百万规模的语义常用词典，包括34万抽象语义库、34万反义语义库、43万同义语义库等](https://github.com/liuhuanyong/ChineseSemanticKB)
 * [百度知道问答语料库，包括超过580万的问题，938万的答案，5800个分类标签](https://github.com/liuhuanyong/MiningZhiDaoQACorpus)
-* []
+* [公司名语料库、机构名语料库](https://github.com/wainshine/Company-Names-Corpus)
+
 
 4、基于Bert(bert4keras)的各类任务统一框架实现：
 * [中文分词、实体识别、文本(情感)分类、阅读理解、标题生成、关系抽取(三元组抽取)、对抗训练、图像描述生成、文本生成](https://github.com/bojone/bert4keras/tree/master/examples)
@@ -62,7 +63,9 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * 支持FineTune、FastText、TextCNN、CharCNN、BiRNN、RCNN、DCNN、CRNN、DeepMoji、SelfAttention、HAN、Capsule等文本分类算法
 * 支持CRF、Bi-LSTM-CRF、CNN-LSTM、DGCNN、Bi-LSTM-LAN、Lattice-LSTM-Batch、MRC等序列标注算法
 
-7、[NLP相关顶会(如ACL、EMNLP、NAACL、COLING、AAAI、IJCAI)的论文、开源代码项目合集](https://github.com/yizhen20133868/NLP-Conferences-Code)
+7、论文合集
+* [NLP相关顶会(如ACL、EMNLP、NAACL、COLING、AAAI、IJCAI)的论文、开源代码项目合集](https://github.com/yizhen20133868/NLP-Conferences-Code)
+* [NLP论文多个领域经典、顶会、必读整理分享](https://blog.csdn.net/qq_42189083/article/details/106424610)
 
 8、实体识别合集
 * [基于TF：BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER)
@@ -84,7 +87,9 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [腾讯开源深度学习文本分类工具:NeuralNLP-NeuralClassifier,基于Pytorch](https://github.com/Tencent/NeuralNLP-NeuralClassifier)
 * [Keras-TextClassification](https://github.com/yongzhuo/Keras-TextClassification)
 * [中文ULMFiT 情感分析 文本分类](https://github.com/bigboNed3/chinese_ulmfit)
+* [基于Bert、Xlnet + cnn、lstm、gru的文本分类](https://github.com/zhanlaoban/Transformers_for_Text_Classification)
 * [如何解决NLP分类任务的11个关键问题](https://zhuanlan.zhihu.com/p/183852900)
+* [文本分类资料综述总结(含代码)](https://github.com/xiaoqian19940510/text-classification-surveys)
 
 10、关系抽取(三元组抽取)
 * [基于远监督的中文关系抽取](https://github.com/xiaofei05/Distant-Supervised-Chinese-Relation-Extraction)
@@ -96,6 +101,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [DeepKE:基于 Pytorch 的深度学习中文关系抽取框架](https://github.com/zjunlp/deepke)
 * [基于TensorFlow的实体及关系抽取,2019语言与智能技术竞赛信息抽取任务解决方案](https://github.com/yuanxiaosc/Entity-Relation-Extraction)
 * [一种级联指针三元组抽取框架](https://github.com/weizhepei/CasRel)
+* [事件抽取方法总结(含代码)](https://github.com/xiaoqian19940510/Event-Extraction)
 
 
 11、文本生成、文本摘要
@@ -126,6 +132,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [《Attention is All You Need》浅读(简介+代码)](https://kexue.fm/archives/4765)
 * [通俗易懂：8大步骤图解注意力机制](https://zhuanlan.zhihu.com/p/94077451)
 * [Transformer如戏，全靠Mask](https://kexue.fm/archives/6933)
+* [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
 
 
 16、机器人、问答
@@ -136,13 +143,18 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [基于金融-司法领域(兼有闲聊性质)的聊天机器人](https://github.com/charlesXu86/Chatbot_CN)
 * [基于rasa_nlu，rasa_core，rasa_core_sdk构建的聊天机器人](https://github.com/xiaoxiong74/rasa_chatbot)
 
-17、Embedding全面理解
+17、Embedding系列
 * [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
 * [乘风破浪的PTM：两年来预训练模型的技术进展](https://zhuanlan.zhihu.com/p/254821426)
 * [万字长文解析词向量(W2C/Fasttext/Glove)](https://zhuanlan.zhihu.com/p/164999424)
 * [Embedding入门必读的十篇论文](https://blog.csdn.net/qq_42189083/article/details/106429008)
 
-18、[NLP论文多个领域经典、顶会、必读整理分享](https://blog.csdn.net/qq_42189083/article/details/106424610)
+18、Bert解读系列
+* [BERT模型图解](https://cloud.tencent.com/developer/article/1389555)
+* [NLP预训练模型：从transformer到albert](https://zhuanlan.zhihu.com/p/85221503)
+* [Bert时代的创新（应用篇）：Bert在NLP各领域的应用进展](https://zhuanlan.zhihu.com/p/68446772)
+* [从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
+* [XLNet:运行机制及和Bert的异同比较](https://zhuanlan.zhihu.com/p/70257427)
 
 19、NLP任务处理合集，包括但不限于词向量、命名实体识别、文本分类、文本生成、文本相似性计算、关系抽取、中文分词、词性标注、情感分析、新词发现、关键词、文本摘要、文本聚类等
 * [NLP相关的一些论文及代码, 包括主题模型、词向量、命名实体识别、文本分类、文本生成、文本相似性计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow](https://github.com/msgi/nlp-journey)
@@ -186,6 +198,9 @@ Cool-NLP | [Cool-CV](README-CV.md)
 
 28、NLP竞赛精选
 * [NLP比赛的TOP方案](https://github.com/zhpmatrix/nlp-competitions-list-review)
+* [首届中文NL2SQL挑战赛冠军方案](https://github.com/nudtnlp/tianchi-nl2sql-top1)
+* [首届中文NL2SQL挑战赛季军方案与代码](https://github.com/beader/tianchi_nl2sql)
+* [Kaggle竞赛宝典方案汇总](https://mp.weixin.qq.com/s/2dd8l4MpyI3UzdTSWGthyA)
 
 
 
