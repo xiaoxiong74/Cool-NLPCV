@@ -3,7 +3,10 @@ Some Cool NLP and CV Repositories and Solutions
 
 [Cool-NLP](README.md) | Cool-CV
 
-旨在收集CV中常见任务的开源解决方案、数据集、工具、学习资料等，方便学习或快速查找。在此分享出来，供大家参考。欢迎积极分享并Star，谢谢！  
+旨在收集CV中常见任务的开源解决方案、数据集、工具、学习资料等，方便学习或快速查找。在此分享出来，供大家参考。欢迎积极分享并Star，谢谢！ 
+会持续不定时更新，也欢迎加入共同分享。  
+
+所有内容来源于网络，如果有侵权等问题，请及时联系我删除。
 
 1、机器学习&深度学习入门精选  
 * [Python-100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
@@ -16,7 +19,10 @@ Some Cool NLP and CV Repositories and Solutions
 * [TensorFlow2教程及深度学习入门指南](https://github.com/snowkylin/tensorflow-handbook)  
 * [Pytorch模型训练实用教程](https://github.com/TingsongYu/PyTorch_Tutorial)
 * [《机器学习》(西瓜书)公式推导解析](https://github.com/datawhalechina/pumpkin-book)
-* [数据科学笔记以及资料搜集Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes)  
+* [数据科学笔记以及资料搜集Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes)
+* [李宏毅《深度强化学习》笔记](https://github.com/datawhalechina/leedeeprl-notes)
+* [Pandas中文教程](https://datawhalechina.github.io/joyful-pandas/build/html/%E7%9B%AE%E5%BD%95/ch3.html)
+* [各种框架的深度学习环境Docker镜像](https://github.com/ufoym/deepo)
 
 2、人脸识别&人脸特征提取
 * [InsightFace: 2D and 3D Face Analysis Project](https://github.com/deepinsight/insightface)
@@ -39,4 +45,6 @@ Some Cool NLP and CV Repositories and Solutions
 
 6、目标检测
 * [目标检测:Yolo v4, v3 and v2](https://github.com/AlexeyAB/darknet)
+* [基于目标检测工地安全帽和禁入危险区域识别系统,含数据集](https://github.com/PeterH0323/Smart_Construction)
+
 

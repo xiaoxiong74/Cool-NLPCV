@@ -4,7 +4,9 @@ Some Cool NLP and CV Repositories and Solutions
 Cool-NLP | [Cool-CV](README-CV.md)  
 
 旨在收集NLP中常见任务的开源解决方案、数据集、工具、学习资料等，方便学习或快速查找。在此分享出来，供大家参考。欢迎积极分享并Star，谢谢!  
-会持续不定时更新，也欢迎加入共同分享。  
+会持续不定时更新，也欢迎加入共同分享。 
+
+所有内容来源于网络，如果有侵权等问题，请及时联系我删除。
 
 1、机器学习&深度学习入门精选  
 * [Python-100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
@@ -17,7 +19,10 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [TensorFlow2教程及深度学习入门指南](https://github.com/snowkylin/tensorflow-handbook)  
 * [Pytorch模型训练实用教程](https://github.com/TingsongYu/PyTorch_Tutorial)
 * [《机器学习》(西瓜书)公式推导解析](https://github.com/datawhalechina/pumpkin-book)
-* [数据科学笔记以及资料搜集Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes)  
+* [数据科学笔记以及资料搜集Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes)
+* [李宏毅《深度强化学习》笔记](https://github.com/datawhalechina/leedeeprl-notes)
+* [Pandas中文教程](https://datawhalechina.github.io/joyful-pandas/build/html/%E7%9B%AE%E5%BD%95/ch3.html)
+* [各种框架的深度学习环境Docker镜像](https://github.com/ufoym/deepo)
 
 2、词向量&Bert系列预训练模型
 * [100+ Chinese Word Vectors上百种预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)  
@@ -51,6 +56,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [面向中文处理的12类、百万规模的语义常用词典，包括34万抽象语义库、34万反义语义库、43万同义语义库等](https://github.com/liuhuanyong/ChineseSemanticKB)
 * [百度知道问答语料库，包括超过580万的问题，938万的答案，5800个分类标签](https://github.com/liuhuanyong/MiningZhiDaoQACorpus)
 * [公司名语料库、机构名语料库](https://github.com/wainshine/Company-Names-Corpus)
+* [中英文NLP数据集](https://github.com/loujie0822/CLUEDatasetSearch)
 
 
 4、基于Bert(bert4keras)的各类任务统一框架实现：
@@ -63,9 +69,10 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * 支持FineTune、FastText、TextCNN、CharCNN、BiRNN、RCNN、DCNN、CRNN、DeepMoji、SelfAttention、HAN、Capsule等文本分类算法
 * 支持CRF、Bi-LSTM-CRF、CNN-LSTM、DGCNN、Bi-LSTM-LAN、Lattice-LSTM-Batch、MRC等序列标注算法
 
-7、论文合集
+7、论文合集&实战分享
 * [NLP相关顶会(如ACL、EMNLP、NAACL、COLING、AAAI、IJCAI)的论文、开源代码项目合集](https://github.com/yizhen20133868/NLP-Conferences-Code)
 * [NLP论文多个领域经典、顶会、必读整理分享](https://blog.csdn.net/qq_42189083/article/details/106424610)
+* [深度学习模型在各大公司实战落地细节解读,主要包括搜索/推荐/自然语言处理方向](https://github.com/DA-southampton/Tech_Aarticle)
 
 8、实体识别合集
 * [基于TF：BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER)
@@ -80,6 +87,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [用预训练语言模型ALBERT做中文NER](https://github.com/ProHiryu/albert-chinese-ner)
 * [用 bilstm-crf,bert及相关方法进行序列标注](https://github.com/qiufengyuyi/sequence_tagging)
 * [BILSTM+CRF做医疗实体识别,包含医疗NER数据](https://github.com/DengYangyong/medical_entity_recognize)
+* [DeepIE:基于深度学习的信息抽取技术](https://github.com/loujie0822/DeepIE)
 
 9、文本(情感)分类
 * [基于CNN，RNN 和NLP中预训练模型构建的多个常见的文本分类模型](https://github.com/xiaoxiong74/textClassifier)
@@ -102,6 +110,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [基于TensorFlow的实体及关系抽取,2019语言与智能技术竞赛信息抽取任务解决方案](https://github.com/yuanxiaosc/Entity-Relation-Extraction)
 * [一种级联指针三元组抽取框架](https://github.com/weizhepei/CasRel)
 * [事件抽取方法总结(含代码)](https://github.com/xiaoqian19940510/Event-Extraction)
+* [DeepIE:基于深度学习的信息抽取技术](https://github.com/loujie0822/DeepIE)
 
 
 11、文本生成、文本摘要
@@ -179,10 +188,13 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [BRAT:基于web的文本标注工具](https://github.com/nlplab/brat)
 * [YEDDA](https://github.com/jiesutd/YEDDA)
 * [MarkTool 基于web的通用文本标注工具,支持大规模实体标注、关系标注、事件标注、文本分类等](https://github.com/FXLP/MarkTool)
+* [doccano:一站式文本标注工具](https://github.com/doccano/doccano)
 
 23、NLP面试指南
 * [NLP算法面试必备！史上最全！PTMs：NLP预训练模型的全面总结](https://zhuanlan.zhihu.com/p/115014536)
 * [NLP/AI面试全记录(持续更新，最全预训练总结)](https://zhuanlan.zhihu.com/p/57153934)
+* [机器学习、NLP面试中常考到的知识点和代码实现](https://github.com/NLP-LOVE/ML-NLP)
+* [关于Attention和Transformer的灵魂拷问](https://zhuanlan.zhihu.com/p/336606129)
 
 24、人工智能技术系列报告
 * [清华大学人工智能技术系列报告](https://reports.aminer.cn/)
@@ -201,6 +213,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [首届中文NL2SQL挑战赛冠军方案](https://github.com/nudtnlp/tianchi-nl2sql-top1)
 * [首届中文NL2SQL挑战赛季军方案与代码](https://github.com/beader/tianchi_nl2sql)
 * [Kaggle竞赛宝典方案汇总](https://mp.weixin.qq.com/s/2dd8l4MpyI3UzdTSWGthyA)
+* [推荐算法竞赛TOP方案合集](https://zhuanlan.zhihu.com/p/317708353)
 
 
 
