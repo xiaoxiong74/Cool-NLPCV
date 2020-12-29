@@ -3,7 +3,7 @@ Some Cool NLP and CV Repositories and Solutions
  
 Cool-NLP | [Cool-CV](README-CV.md)  
 
-旨在收集NLP中常见任务的开源解决方案、数据集、工具、学习资料等，方便学习或快速查找。在此分享出来，供大家参考。欢迎积极分享并Star，谢谢!  
+旨在收集NLP中常见任务的开源解决方案、数据集、工具、学习资料、优质博客等，方便学习或快速查找。在此分享出来，供大家参考。欢迎积极分享并Star，谢谢!  
 会持续不定时更新，也欢迎加入共同分享。 
 
 所有内容来源于网络，如果有侵权等问题，请及时联系我删除。
@@ -38,7 +38,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [以词为基本单位的中文BERT](https://github.com/ZhuiyiTechnology/WoBERT)
 * [高质量中文预训练模型集合：最先进大模型、最快小模型、相似度专门模型](https://github.com/CLUEbenchmark/CLUEPretrainedModels)
 
-3、中文自然语言处理数据集 
+3、自然语言处理数据集&数据下载网站
 * [任务型对话数据、文本分类、实体识别&词性标注、搜索匹配、推荐系统、百科数据、指代消歧、中文完形填空数据集、中华古诗词数据库、保险行业语料库、汉语拆字字典、中文数据集平台](https://github.com/InsaneLife/ChineseNLPCorpus)
 * [情感/观点/评论 倾向性分析、中文命名实体识别、推荐系统、FAQ 问答系统](https://github.com/SophonPlus/ChineseNlpCorpus) 
 * [维基百科、新闻语料、百科问答、社区问答、中英翻译语料](https://github.com/brightmart/nlp_chinese_corpus) 
@@ -57,6 +57,9 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [百度知道问答语料库，包括超过580万的问题，938万的答案，5800个分类标签](https://github.com/liuhuanyong/MiningZhiDaoQACorpus)
 * [公司名语料库、机构名语料库](https://github.com/wainshine/Company-Names-Corpus)
 * [中英文NLP数据集](https://github.com/loujie0822/CLUEDatasetSearch)
+* [智源数据开放研究中心](https://open.baai.ac.cn/home)
+* [百度大脑](https://ai.baidu.com/broad/download)
+* [滴滴数据开放计划](https://outreach.didichuxing.com/app-vue/)
 
 
 4、基于Bert(bert4keras)的各类任务统一框架实现：
@@ -178,11 +181,14 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [Jieba](https://github.com/yanyiwu/cppjieba)
 * [NLPIR汉语分词](https://github.com/NLPIR-team/NLPIR)
 * [JioNLP：中文NLP任务预处理工具包，准确、高效、零使用门槛](https://github.com/dongrixinyu/JioNLP)
+* [Time-Extractor:中文文本时间抽取、时间转换及标准化](https://github.com/xiaoxiong74/Time-Extractor)
 
 21、文本对抗、数据增强
 * [TextAttack:一个用于NLP对抗性攻击、数据扩充和模型训练的框架](https://github.com/QData/TextAttack)
 * [对抗训练浅谈：意义、方法和思考(附Keras实现)](https://kexue.fm/archives/7234)
 * [中文语料的EDA数据增强工具](https://github.com/zhanlaoban/eda_nlp_for_Chinese)
+* [一文搞懂NLP中的对抗训练FGSM/FGM/PGD/FreeAT/YOPO/FreeLB/SMART](https://zhuanlan.zhihu.com/p/103593948)
+* [NLP中的对抗训练 + PyTorch实现](https://zhuanlan.zhihu.com/p/91269728)
 
 22、NLP标注工具或平台
 * [BRAT:基于web的文本标注工具](https://github.com/nlplab/brat)
@@ -214,6 +220,27 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [首届中文NL2SQL挑战赛季军方案与代码](https://github.com/beader/tianchi_nl2sql)
 * [Kaggle竞赛宝典方案汇总](https://mp.weixin.qq.com/s/2dd8l4MpyI3UzdTSWGthyA)
 * [推荐算法竞赛TOP方案合集](https://zhuanlan.zhihu.com/p/317708353)
+
+29、模型蒸馏
+* [BERT模型蒸馏完全指南（原理/技巧/代码）](https://zhuanlan.zhihu.com/p/273378905)
+* [一个基于PyTorch的NLP知识蒸馏工具包](https://github.com/airaria/TextBrewer)
+
+30、训练技巧
+* [神经网络分布式训练、混合精度训练、梯度累加...一文带你优雅地训练大型模型](https://zhuanlan.zhihu.com/p/110278004)
+* [BERT预训练实操总结](https://zhuanlan.zhihu.com/p/337212893)
+
+31、竞赛网站
+* [阿里云天池](https://tianchi.aliyun.com/)
+* [DataFountain](https://www.datafountain.cn/)
+* [Biendata competitions](https://www.biendata.xyz/)
+* [DC-lab](https://www.dclab.run/index.html)
+* [Kaggle](https://www.kaggle.com/)
+* [图灵联邦](https://www.turingtopia.com/competitionnew)
+* [Flyai](https://www.flyai.com/)
+* [Eval](https://eval.ai/web/challenges/list)
+
+
+
 
 
 
