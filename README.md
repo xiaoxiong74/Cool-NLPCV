@@ -218,7 +218,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 27、Seq2Seq
 * [无监督编程语言转换(Python、C++、Java)](https://github.com/facebookresearch/TransCoder?utm_source=catalyzex.com)
 
-28、NLP竞赛精选
+28、竞赛精选
 * [NLP比赛的TOP方案](https://github.com/zhpmatrix/nlp-competitions-list-review)
 * [首届中文NL2SQL挑战赛冠军方案](https://github.com/nudtnlp/tianchi-nl2sql-top1)
 * [首届中文NL2SQL挑战赛季军方案与代码](https://github.com/beader/tianchi_nl2sql)
@@ -243,6 +243,10 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [Flyai](https://www.flyai.com/)
 * [Eval](https://eval.ai/web/challenges/list)
 
+32、论文检索下载
+* [SCI-HUB](https://sci-hub.se/)
+* [arXiv](https://arxiv.org/)
+* [卖萌屋学术站](https://arxiv.xixiaoyao.cn/)
 
 
 

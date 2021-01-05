@@ -48,4 +48,6 @@ Some Cool NLP and CV Repositories and Solutions
 * [基于目标检测工地安全帽和禁入危险区域识别系统,含数据集](https://github.com/PeterH0323/Smart_Construction)
 * [基于Retinaface车牌检测,全新模型仅1.8MB](https://github.com/zeusees/License-Plate-Detector)
 
-
+7、目标跟踪
+* [MMTracking: 一体化视频目标感知平台](https://github.com/open-mmlab/mmtracking)
+* [多目标跟踪DeepSort](https://github.com/nwojke/deep_sort)
