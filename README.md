@@ -35,7 +35,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [中文AlBert预训练模型](https://github.com/brightmart/albert_zh)
 * [开源预训练语言模型合集](https://github.com/ZhuiyiTechnology/pretrained-models)
 * [JD客服对话数据(42G,12亿句子)预训练BERT及WordEmbedding](https://github.com/jd-aig/nlp_baai/tree/master/pretrained_models_and_embeddings)
-* [以词为基本单位的中文BERT](https://github.com/ZhuiyiTechnology/WoBERT)
+* [基于词颗粒度的中文WoBERT](https://github.com/ZhuiyiTechnology/WoBERT)
 * [高质量中文预训练模型集合：最先进大模型、最快小模型、相似度专门模型](https://github.com/CLUEbenchmark/CLUEPretrainedModels)
 
 3、自然语言处理数据集&数据下载网站
@@ -118,6 +118,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 
 11、文本生成、文本摘要
 * [动手做个DialoGPT：基于LM的生成式多轮对话模型](https://kexue.fm/archives/7718)
+* [法研杯2020司法摘要:SPACES：“抽取-生成”式长文本摘要（法研杯总结）](https://github.com/bojone/SPACES)
 
 12、阅读理解
 * [基于MLM的阅读理解问答](https://kexue.fm/archives/7148)
@@ -141,6 +142,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [基于Siamese bilstm模型的相似句子判定模型,提供训练数据集和测试数据集](https://github.com/liuhuanyong/SiameseSentenceSimilarity)
 
 15、Attention(注意力机制)、Transformer
+* [深度学习中的注意力模型](https://zhuanlan.zhihu.com/p/37601161)
 * [《Attention is All You Need》浅读(简介+代码)](https://kexue.fm/archives/4765)
 * [通俗易懂：8大步骤图解注意力机制](https://zhuanlan.zhihu.com/p/94077451)
 * [Transformer如戏，全靠Mask](https://kexue.fm/archives/6933)
@@ -182,13 +184,15 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [NLPIR汉语分词](https://github.com/NLPIR-team/NLPIR)
 * [JioNLP：中文NLP任务预处理工具包，准确、高效、零使用门槛](https://github.com/dongrixinyu/JioNLP)
 * [Time-Extractor:中文文本时间抽取、时间转换及标准化](https://github.com/xiaoxiong74/Time-Extractor)
+* [TexSmart: 文本理解工具与服务](https://ai.tencent.com/ailab/nlp/texsmart/zh/)
 
-21、文本对抗、数据增强
+21、文本对抗、数据增强、少样本、零样本、半监督
 * [TextAttack:一个用于NLP对抗性攻击、数据扩充和模型训练的框架](https://github.com/QData/TextAttack)
 * [对抗训练浅谈：意义、方法和思考(附Keras实现)](https://kexue.fm/archives/7234)
 * [中文语料的EDA数据增强工具](https://github.com/zhanlaoban/eda_nlp_for_Chinese)
 * [一文搞懂NLP中的对抗训练FGSM/FGM/PGD/FreeAT/YOPO/FreeLB/SMART](https://zhuanlan.zhihu.com/p/103593948)
 * [NLP中的对抗训练 + PyTorch实现](https://zhuanlan.zhihu.com/p/91269728)
+* [BERT的MLM模型也能小样本学习](https://kexue.fm/archives/7764)
 
 22、NLP标注工具或平台
 * [BRAT:基于web的文本标注工具](https://github.com/nlplab/brat)

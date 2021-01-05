@@ -46,5 +46,6 @@ Some Cool NLP and CV Repositories and Solutions
 6、目标检测
 * [目标检测:Yolo v4, v3 and v2](https://github.com/AlexeyAB/darknet)
 * [基于目标检测工地安全帽和禁入危险区域识别系统,含数据集](https://github.com/PeterH0323/Smart_Construction)
+* [基于Retinaface车牌检测,全新模型仅1.8MB](https://github.com/zeusees/License-Plate-Detector)
 
 
