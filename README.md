@@ -226,6 +226,7 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [首届中文NL2SQL挑战赛季军方案与代码](https://github.com/beader/tianchi_nl2sql)
 * [Kaggle竞赛宝典方案汇总](https://mp.weixin.qq.com/s/2dd8l4MpyI3UzdTSWGthyA)
 * [推荐算法竞赛TOP方案合集](https://zhuanlan.zhihu.com/p/317708353)
+* [Data competition Top Solution 数据竞赛top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution	)
 
 29、模型蒸馏
 * [BERT模型蒸馏完全指南（原理/技巧/代码）](https://zhuanlan.zhihu.com/p/273378905)
@@ -251,6 +252,8 @@ Cool-NLP | [Cool-CV](README-CV.md)
 * [arXiv](https://arxiv.org/)
 * [卖萌屋学术站](https://arxiv.xixiaoyao.cn/)
 
+33、推荐系统
+* [易用可扩展的深度学习点击率预测算法包](https://github.com/shenweichen/DeepCTR)
 
 
 
